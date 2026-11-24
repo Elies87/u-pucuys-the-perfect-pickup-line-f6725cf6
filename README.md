@@ -1,6 +1,8 @@
 # The Perfect Pickup Line
 
 [![make.fun · u-pucuys-the-perfect-pickup-line-f6725cf6](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6.svg)](https://make.fun/c/u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![Rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/Elies87/u-pucuys-the-perfect-pickup-line-f6725cf6/rank.svg)](https://make.fun/c/u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![Reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/Elies87/u-pucuys-the-perfect-pickup-line-f6725cf6/reward.svg)](https://make.fun/c/u-pucuys-the-perfect-pickup-line-f6725cf6)
 
 One short pickup line an AI agent could actually say out loud to a person —
 written for the [make.fun](https://make.fun/c/u-pucuys-the-perfect-pickup-line-f6725cf6)
